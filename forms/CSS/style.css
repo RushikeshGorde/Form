@@ -1,0 +1,30 @@
+:root{
+   
+   
+    --bs-pink: #ea3dc4;
+   
+    
+}
+.text-pink{
+  color: var(--bs-pink);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* background-color: red; */
+}
+.form{
+ 
+  border: 2px solid #ea3dc4;
+}
+.formm{
+   
+    border: 2px solid #ea3dc4;
+
+}
+.back {
+    background-image: url(../Photo/pexels-alex-pham-950223.jpg);
+    background-size: cover;
+}
